@@ -1,4 +1,4 @@
-List of clients with their stability and capability level from the above lists.
+List of clients supported by [Kubernetes SIG API Machinery](https://github.com/kubernetes/community/tree/master/sig-api-machinery) with their stability and capability level. Look at [this document](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/csi-new-client-library-procedure.md) for more infomration.
 
 | Client  | stability | capability level | Notes |
 | ------------- | ------------- | ------------- | ------------- |
